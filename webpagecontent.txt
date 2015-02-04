@@ -1,0 +1,765 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.besmith.com/sites/default/files/besmith250x250.png" />
+<meta property="og:url" content="https://www.besmith.com/candidates/search" />
+<link rel="shortcut icon" href="https://www.besmith.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:description" content="B. E. Smith, a top healthcare executive search firm, provides leadership solutions through executive search, interim leadership and management consulting." />
+<meta property="og:site_name" content="B. E. Smith" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.besmith.com/candidates/search" />
+<link rel="shortlink" href="https://www.besmith.com/candidates/search" />
+<meta property="fb:app_id" content="249944761859268" />
+    <title>| B. E. Smith</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="com.silverpop.brandeddomains" content="www.pages05.net,besmith.com,besmith.mkt4862.com" />
+  <!-- Optionally uncomment the following code between your HTML document head tags if you use Engage Conversion Tracking (COT). -->
+  <!--<meta name="com.silverpop.cothost" content="engage5.silverpop.com" />-->
+
+  <link type="text/css" rel="stylesheet" href="https://www.besmith.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.besmith.com/sites/default/files/css/css__bA6PIQJEKPERr57v21yx1xnvrYBMzFBcQCGN4JwO6E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.besmith.com/sites/default/files/css/css_SJIMTPevqZ2kfsWUv381hqa_kp1GO9ynvz-KULUxlB4.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.besmith.com/sites/default/files/css/css_zbl3wXr6N77y2yMTwG6Iiju16ith3Om4Q-lo5Ich_sc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.besmith.com/sites/default/files/css/css_WMrXdGVWs8vq5tOVOQSp7hjaC2Jdjr3Rxe_-uyazBBY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.besmith.com/sites/default/files/css/css_ECI-YXfDrcj0tzGGb6qASj7uasOWnk9jtA3YsBLLmyw.css" media="all" />
+ <script type="text/javascript" src="https://www.besmith.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="https://www.besmith.com/sites/default/files/js/js_45JniWrXrY8q8AEVIV6GFupI5scizolw-FrujytMgiY.js"></script>
+<script type="text/javascript" src="https://www.besmith.com/sites/default/files/js/js_KRDogyMAld5_Kf7AmmTiyROX7_Xs8FSB1co7AT3mgZg.js"></script>
+<script type="text/javascript" src="https://www.besmith.com/sites/default/files/js/js_ostobdidjOnDvsR-3ToAYMaOQalOC6mbHrsiJVdwkIM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-11530039-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.besmith.com/sites/default/files/js/js_M6CIeNuqumd3dwmjWZo7RTAlh1B_716PGilncpNjhrU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"besmith","theme_token":"YhjQhSVOy54AOotSy7j27FNRSuQc9YFMa4KXneqlTbY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/contrib\/ContentLead\/video.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/besmith\/_assets\/js\/global.js":1,"sites\/all\/themes\/besmith\/_assets\/js\/plugins.js":1,"sites\/all\/themes\/besmith\/_assets\/js\/chosen\/chosen.jquery.min.js":1,"sites\/all\/themes\/besmith\/_assets\/js\/omniture.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/ContentLead\/videojs.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/themes\/besmith\/_assets\/css\/global.css":1,"sites\/all\/themes\/besmith\/_assets\/css\/shadowbox.css":1,"sites\/all\/themes\/besmith\/_assets\/js\/chosen\/chosen.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <script src="https://www.sc.pages05.net/lp/static/js/iMAWebCookie.js?6b249338-13534f7f709-37c504b367ce64f028215bda5330c1de&h=www.pages05.net" type="text/javascript"></script>
+
+
+
+    </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-candidates page-candidates-search anonymous-user" >
+<div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+
+  <div class="header">
+        <div class="inner clearfix">
+            <div class="logo-wrapper">
+                <a href="/">
+                                  	<img src="https://www.besmith.com/sites/default/files/124x66_BES-Web-Logo.png" id="logo" />
+                                </a>
+            </div>
+            
+            <div class="header-top">
+            	        			  <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/candidates/search?field_state_value=All&amp;field_job_category_tid=&amp;field_job_type_tid=&amp;field_code_value=&amp;body_value=&amp;field_term_tags_value=&amp;page=1&amp;title=" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search the site&#039;;}" onfocus="if (this.value == &#039;Search the site&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search the site" size="25" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-EqMRasiNW5FdOBuctX08Rb5YpUApBNOtEbr8kEF6dn0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div><div id="block-menu-menu-utility-nav" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/user?current=candidates/search" title="">Candidate Login</a></li>
+</ul>  </div>
+</div>  </div>
+      			            </div>
+            
+            <div class="header-bottom">
+                                    <div class="region region-header-bottom">
+    <div id="block-nice-menus-1" class="block block-nice-menus">
+
+    
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-324 menuparent  menu-path-node-2 first odd "><a href="/about" title="Learn about B. E. Smith&#039;s Dedication to the Healthcare Execuive Search">About B. E. Smith</a><ul><li class="menu-464 menu-path-node-42 first odd "><a href="/about/about-executive-team" title="Meet B. E. Smith&#039;s Executive Team">Executive Team</a></li>
+<li class="menu-470 menuparent  menu-path-node-45  even "><a href="/about/regional-contacts" title="Connect With Your Regional Contact for All Your Healthcare Recruitment Needs">Regional Contacts</a><ul><li class="menu-858 menu-path-node-154 first odd "><a href="/about/regional-contacts/senior-vice-president-business-development-0" title="Mike Supple, Senior Vice President">Global Senior Vice President</a></li>
+<li class="menu-859 menu-path-node-155  even "><a href="/about/regional-contacts/vice-president-north-central-division" title="Matt Hoffman, Vice President">North Central Division</a></li>
+<li class="menu-861 menu-path-node-158  odd "><a href="/about/regional-contacts/regional-vice-president-business-development-1" title="Bryan Christianson, Vice President">West Division</a></li>
+<li class="menu-2258 menu-path-node-1442  even "><a href="/about/regional-contacts/vice-president-central-west-division" title="Harper Chaffee, Vice President">Central West Division</a></li>
+<li class="menu-2619 menu-path-node-2616  odd "><a href="/about/regional-contacts/vice-president-central-east-division" title="Megan Heim, Vice President">Central East Division</a></li>
+<li class="menu-862 menu-path-node-159  even "><a href="/about/regional-contacts/regional-vice-president-business-development-2" title="Brett Brende, Vice President">Southwest Division</a></li>
+<li class="menu-865 menu-path-node-162  odd "><a href="/about/regional-contacts/regional-vice-president-business-development-5" title="Brian Krehbiel, Vice President">Southeast Division</a></li>
+<li class="menu-866 menu-path-node-163  even "><a href="/about/regional-contacts/regional-vice-president-business-development-6" title="Sandy Cugliotta, Vice President">Northeast Division</a></li>
+<li class="menu-2335 menu-path-node-1723  odd "><a href="/about/regional-contacts/vice-president-academic-and-childrens-division" title="Jolene Williams, Vice President">Academic &amp; Children&#039;s Division</a></li>
+<li class="menu-2646 menu-path-node-2765  even last"><a href="/about/regional-contacts/vice-president-physician-services" title="Dr. Marilyn Palmer, Vice President">Physician Services</a></li>
+</ul></li>
+<li class="menu-471 menu-path-node-46  odd "><a href="/about/partnerships" title="National and Regional Healthcare Partnerships">Partnerships</a></li>
+<li class="menu-472 menu-path-node-47  even "><a href="/about/diversity" title="B. E. Smith&#039;s Diversity Statement">Diversity</a></li>
+<li class="menu-473 menu-path-node-48  odd "><a href="/about/awards" title="B. E. Smith&#039;s National and Regional Awards">Awards</a></li>
+<li class="menu-2566 menu-path-node-2550  even last"><a href="/about/careers-b-e-smith" title="Join the team! Career opportunities at B. E. Smith.">B. E. Smith Careers</a></li>
+</ul></li>
+<li class="menu-327 menuparent  menu-path-node-4  even "><a href="/solutions" title="Learn More About Interim Leadership, Executive Search and Advisory Services">Solutions</a><ul><li class="menu-475 menuparent  menu-path-node-50 first odd "><a href="/solutions/interim-leadership" title="The Healthcare Industry&#039;s Premier Interim Leadership Solution">Interim Leadership</a><ul><li class="menu-565  menu-path-node-130 first odd "><a href="/solutions/interim-leadership/interim-leadership-team" title="Meet Your Interim Leadership Team">Interim Leadership Team</a></li>
+<li class="menu-2351 menu-path-node-1933  even last"><a href="/solutions/interim-leadership/testimonials" title="See what healthcare providers are saying about Interim Leadership">Testimonials</a></li>
+</ul></li>
+<li class="menu-476 menuparent  menu-path-node-51  even "><a href="/solutions/executive-search" title="The Top Ranked Healthcare Executive Search Firm">Executive Search</a><ul><li class="menu-569  menu-path-node-134 first odd "><a href="/solutions/executive-search/executive-search-team" title="Meet Your Executive Search Team">Executive Search Team</a></li>
+<li class="menu-2350 menu-path-node-1932  even last"><a href="/solutions/executive-search/testimonials" title="See what healthcare providers are saying about Executive Search">Testimonials</a></li>
+</ul></li>
+<li class="menu-3186 menuparent  menu-path-node-3806  odd "><a href="/solutions/advisory-services" title="Your Trusted Advisers">Advisory Services</a><ul><li class="menu-3221 menu-path-node-1934 first odd last"><a href="/solutions/advisory-services/testimonials" title="See what healthcare providers are saying about Advisory Services">Testimonials</a></li>
+</ul></li>
+<li class="menu-2343 menuparent  menu-path-node-1847  even last"><a href="/solutions/specialty-areas" title="Experienced healthcare recruiters in select specialty areas">Specialty Areas</a><ul><li class="menu-566  menu-path-node-4756 first odd "><a href="/solutions/specialty-areas/senior-executive-search" title="The Foremost Senior-Level Healthcare and Recruitment Experience in the Industry">Senior Executive Search</a></li>
+<li class="menu-2344  menu-path-node-1848  even "><a href="/solutions/specialty-areas/childrens-hospitals" title="Learn about B. E. Smith&#039;s pediatric leadership team and recruitment services">Children&#039;s Hospitals</a></li>
+<li class="menu-2345  menu-path-node-1850  odd "><a href="/solutions/specialty-areas/academic-medical-centers-higher-education" title="B. E. Smith&#039;s academic &amp; higher education service offerings">Academic &amp; Higher Education</a></li>
+<li class="menu-2346  menu-path-node-1851  even "><a href="/solutions/specialty-areas/healthcare-information-technology" title="Information on B. E. Smith&#039;s healthcare IT recruitment and services">Information Technology</a></li>
+<li class="menu-3156  menu-path-node-3286  odd last"><a href="/solutions/specialty-areas/physician-executive-services" title="Information on physician executive recruitment and services">Physician Executive Services</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-328 menuparent  menu-path-node-53  odd "><a href="/candidates/search-listings" title="Career information and opportunities for healthcare executives">Candidates</a><ul><li class="menu-478 menu-path-node-53 first odd "><a href="/candidates/search-listings" title="Find your next career opportunity">Search Listings</a></li>
+<li class="menu-480 menuparent  menu-path-node-55  even "><a href="/candidates/recently-placed-archive" title="Your Opportunity for Interim Leadership, Executive Search and Management Consulting Services">Candidate Solutions</a><ul><li class="menu-537  menu-path-node-125 first odd "><a href="/candidates/candidate-solutions/interim-leadershipconsulting-positions" title="Interim Leadership/Consulting Positions">Interim/Consulting Positions</a></li>
+<li class="menu-513 menu-path-node-123  even last"><a href="/candidates/candidate-solutions/permanent-positions" title="Get notified regarding permanent healthcare positions">Permanent Positions</a></li>
+</ul></li>
+<li class="menu-479 menu-path-node-54  odd "><a href="/candidates/candidate-contacts" title="Contact a healthcare recruiter in your specialty">Candidate Contacts</a></li>
+<li class="menu-987 menu-path-user  even last"><a href="/user?current=candidates/search" title="Sign in or create an account">Sign in to B. E. Smith</a></li>
+</ul></li>
+<li class="menu-329 menuparent  menu-path-node-6  even "><a href="/thought-leadership" title="Links to Career Management, Articles, Case Studies, Testimonials, White Papers, and Videos">Thought Leadership</a><ul><li class="menu-485 menu-path-node-60 first odd "><a href="/thought-leadership/white-papers" title="B. E. Smith articles providing insight into healthcare trends and topics">White Papers</a></li>
+<li class="menu-3211 menu-path-node-3811  even "><a href="/thought-leadership/executive-briefs">Executive Briefs</a></li>
+<li class="menu-482 menu-path-node-57  odd "><a href="/thought-leadership/articles" title="Reports from leading healthcare publications on leadership and recruitment">Articles</a></li>
+<li class="menu-483 menu-path-node-58  even "><a href="/thought-leadership/case-studies" title="Learn how B. E. Smith has helped similar organizations">Case Studies</a></li>
+<li class="menu-484 menu-path-node-59  odd "><a href="/thought-leadership/testimonials" title="Discover why healthcare providers value their partnership with B. E. Smith">Testimonials</a></li>
+<li class="menu-481 menu-path-node-56  even "><a href="/thought-leadership/career-management" title="Advice and information to help you advance your career">Career Management</a></li>
+<li class="menu-1056 menu-path-node-61  odd "><a href="/thought-leadership/videos" title="Get expert advice straight from industry thought leaders">Videos</a></li>
+<li class="menu-1871 menu-path-node-62  even last"><a href="/thought-leadership/recent-surveys" title="Access national survey results from B. E. Smith and healthcare executives">Recent Surveys</a></li>
+</ul></li>
+<li class="menu-330 menuparent  menu-path-node-7  odd "><a href="/news-events" title="A resource for valuable healthcare information">News &amp; Events</a><ul><li class="menu-488 menu-path-node-63 first odd "><a href="/news-events/recent-news" title="Read the latest B. E. Smith healthcare leadership news">Recent News</a></li>
+<li class="menu-489 menu-path-node-64  even "><a href="/news-events/upcoming-events" title="View future healthcare conferences and meetings">Upcoming Events</a></li>
+<li class="menu-491 menu-path-node-66  odd last"><a href="/news-events/archive/news-archive" title="Access past news stories and press releases">News Archive</a></li>
+</ul></li>
+<li class="menu-534 menu-path-node-124  even last"><a href="/contact-us" title="How can B. E. Smith help you?">Contact</a></li>
+</ul>
+  </div>
+</div>  </div>
+                            </div>
+        </div>
+    </div>
+    
+    <div class="hero clearfix">
+    	<div class="inner">
+            <div class="pre-content">
+               	        			  <div class="region region-pre-content-a">
+    <div id="block-block-6" class="block block-block">
+
+    
+  <div class="content">
+    <script>
+jQuery(document).ready(function() {
+  jQuery('#search-submit').click(function(){
+       // Omniture Code
+       s=s_gi(s_account);
+       s.linkTrackVars = "events";
+       s.linkTrackEvents = "event1";
+       s.events = "event1";
+       s.tl(true, 'o', 'Custom Link Click');
+       s.channel='Job Searches';
+      // End Omniture Code
+  });
+  
+jQuery("#search-form").submit(function(){
+var getinfo = jQuery("#select-keywords").val();
+jQuery("#code").val(getinfo);
+jQuery("#hid-title").val(getinfo);
+jQuery("#tags").val(getinfo);
+})
+});
+</script>
+<div class="job-search-wrapper clearfix">
+<h2>Search Available Listings</h2>
+    <div class="keywords-wrapper">          
+     <div class="selection-wrapper clearfix">
+<form action="/candidates/search" method="get" id="search-form">
+<label for="select-keywords">Keywords: </label><input type="text" class="form-text" maxlength="128" size="30" value="" name="body_value" id="select-keywords">
+<input id="code" type="text" value="" name="field_code_value" style="display: none" >
+<input id="hid-title" type="text" value="" name="title" style="display: none">
+<input id="tags" type="text" value="" name="field_term_tags_value" style="display: none; ">
+</div>
+	</div>
+
+    <div class="location-wrapper">
+        <div class="selection-wrapper clearfix"><label for="select-state">Location: </label><select class="form-select" name="field_state_value" id="select-state"><option value="All">- Select State -</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District Of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select></div>
+    </div>
+</div>  </div>
+</div><div id="block-views-job-search-view-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-job-search-view view-id-job_search_view view-display-id-block_1 view-dom-id-e5f550e327f3d10aa503718306d1e00a">
+        
+  
+  
+      <div class="view-content">
+      <div class="job-search-wrapper">
+  <div class="category-wrapper grad">
+  	<span>Category:</span>
+  	      <div class="selection-wrapper clearfix"><input type="checkbox" id="Operations/Support" name="field_job_category_tid" value="Operations/Support"/><label for="Operations/Support">Operations/Support</label></div>
+          <div class="selection-wrapper clearfix"><input type="checkbox" id="Finance" name="field_job_category_tid" value="Finance"/><label for="Finance">Finance</label></div>
+          <div class="selection-wrapper clearfix"><input type="checkbox" id="Executive" name="field_job_category_tid" value="Executive"/><label for="Executive">Executive</label></div>
+          <div class="selection-wrapper clearfix"><input type="checkbox" id="Higher Education" name="field_job_category_tid" value="Higher Education"/><label for="Higher Education">Higher Education</label></div>
+          <div class="selection-wrapper clearfix"><input type="checkbox" id="Clinical" name="field_job_category_tid" value="Clinical"/><label for="Clinical">Clinical</label></div>
+      </div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div><div id="block-views-job-search-view-block-2" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-job-search-view view-id-job_search_view view-display-id-block_2 view-dom-id-b4eee77c1ab2ccf94bd9f5d9b962582b">
+        
+  
+  
+      <div class="view-content">
+      <div class="job-search-wrapper" style="float: left;">
+<div class="position-wrapper grad">
+<span>Position Type:</span>
+		<div class="selection-wrapper clearfix"><input type="checkbox" id="Consulting" name="field_job_type_tid" value="Consulting"/><label for="Consulting">Consulting</label></div>
+		<div class="selection-wrapper clearfix"><input type="checkbox" id="Interim" name="field_job_type_tid" value="Interim"/><label for="Interim">Interim</label></div>
+		<div class="selection-wrapper clearfix"><input type="checkbox" id="Permanent" name="field_job_type_tid" value="Permanent"/><label for="Permanent">Permanent</label></div>
+</div>
+<input type="submit" id="search-submit" value="View Matching Listings">
+</div>
+</form>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>  </div>
+      			                			</div>
+            
+        	                <div class="sidebar-left">
+                      <div class="region region-sidebar-first">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3><a href="/candidates/search-listings" title="Career information and opportunities for healthcare executives">Candidates</a></h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-328 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-478"><a href="/candidates/search-listings" title="Find your next career opportunity">Search Listings</a></li>
+<li class="expanded menu-mlid-480"><a href="/candidates/recently-placed-archive" title="Your Opportunity for Interim Leadership, Executive Search and Management Consulting Services">Candidate Solutions</a><ul class="menu"><li class="first leaf has-children menu-mlid-537"><a href="/candidates/candidate-solutions/interim-leadershipconsulting-positions" title="Interim Leadership/Consulting Positions">Interim/Consulting Positions</a></li>
+<li class="last leaf menu-mlid-513"><a href="/candidates/candidate-solutions/permanent-positions" title="Get notified regarding permanent healthcare positions">Permanent Positions</a></li>
+</ul></li>
+<li class="leaf menu-mlid-479"><a href="/candidates/candidate-contacts" title="Contact a healthcare recruiter in your specialty">Candidate Contacts</a></li>
+<li class="last leaf menu-mlid-987"><a href="/user?current=candidates/search" title="Sign in or create an account">Sign in to B. E. Smith</a></li>
+</ul></div>
+  </div>
+</div>  </div>
+                </div>
+                      
+        </div>
+      </div>
+          
+       <div class="content-wrapper clearfix">
+       	  <div class="inner">
+         						
+				        		
+               <div class="main-col"> 
+                  <a id="main-content"></a>
+                                   <div id="tabs-wrapper" class="clearfix"> </div>                                                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-job-opportunity view-id-job_opportunity view-display-id-page_1 view-dom-id-03ced5c554914776df9bd36cca244f11">
+        
+      <div class="view-filters">
+      <form action="/candidates/search" method="get" id="views-exposed-form-job-opportunity-page-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-state-value-wrapper" class="views-exposed-widget views-widget-filter-field_state_value">
+                  <label for="edit-field-state-value">
+            State (field_state)          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-state-value">
+ <select id="edit-field-state-value" name="field_state_value" class="form-select"><option value="All" selected="selected">- Any -</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District Of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-job-category-tid-wrapper" class="views-exposed-widget views-widget-filter-field_job_category_tid">
+                  <label for="edit-field-job-category-tid">
+            Job Category (field_job_category)          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-job-category-tid">
+ <input type="text" id="edit-field-job-category-tid" name="field_job_category_tid" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-field-job-category-tid-autocomplete" value="https://www.besmith.com/admin/views/ajax/autocomplete/taxonomy/4" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-job-type-tid-wrapper" class="views-exposed-widget views-widget-filter-field_job_type_tid">
+                  <label for="edit-field-job-type-tid">
+            Job Type (field_job_type)          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-job-type-tid">
+ <input type="text" id="edit-field-job-type-tid" name="field_job_type_tid" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-field-job-type-tid-autocomplete" value="https://www.besmith.com/admin/views/ajax/autocomplete/taxonomy/5" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-code-value-wrapper" class="views-exposed-widget views-widget-filter-field_code_value">
+                  <label for="edit-field-code-value">
+            Opportunity Code (field_code)          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-code-value">
+ <input type="text" id="edit-field-code-value" name="field_code_value" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-body-value-wrapper" class="views-exposed-widget views-widget-filter-body_value">
+                  <label for="edit-body-value">
+            Body (body)          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-body-value">
+ <input type="text" id="edit-body-value" name="body_value" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-field-term-tags-value-wrapper" class="views-exposed-widget views-widget-filter-field_term_tags_value">
+                  <label for="edit-field-term-tags-value">
+            Term Tags (field_term_tags)          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-field-term-tags-value">
+ <input type="text" id="edit-field-term-tags-value" name="field_term_tags_value" value="" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-job-opportunity" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      
+<table id="job-opportunity">
+  <tr>
+       	      	 <th><a href="/candidates/search?field_state_value=All&amp;field_job_category_tid=&amp;field_job_type_tid=&amp;field_code_value=&amp;body_value=&amp;field_term_tags_value=&amp;page=1&amp;title=&amp;order=title&amp;sort=asc" title="sort by Title" class="active">Title</a></th>
+    	       	      	 <th><a href="/candidates/search?field_state_value=All&amp;field_job_category_tid=&amp;field_job_type_tid=&amp;field_code_value=&amp;body_value=&amp;field_term_tags_value=&amp;page=1&amp;title=&amp;order=field_organization_name&amp;sort=asc" title="sort by Organization Name" class="active">Organization Name</a></th>
+    	       	      	 <th>Position Type</th>
+    	       	      	 <th><a href="/candidates/search?field_state_value=All&amp;field_job_category_tid=&amp;field_job_type_tid=&amp;field_code_value=&amp;body_value=&amp;field_term_tags_value=&amp;page=1&amp;title=&amp;order=field_state&amp;sort=asc" title="sort by Location" class="active">Location</a></th>
+    	      </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-invasive-cardiology">Director, Invasive Cardiology</a> </td>
+              <td>St. Joseph Regional Health Center</td>
+            <td>Permanent</td>
+                 
+        <td>Bryan, Texas</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-emergency-department-11">Director of Emergency Department</a> </td>
+              <td>Palmdale Regional Medical Center</td>
+            <td>Permanent</td>
+                 
+        <td>Palmdale, California</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-women-and-childrens-services-bendredmond">Director, Women and Children&#039;s Services - Bend/Redmond</a> </td>
+              <td>St. Charles Health System, Inc.</td>
+            <td>Permanent</td>
+                 
+        <td>Bend, Oregon</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-critical-care-3">Director of Critical Care</a> </td>
+              <td>Wesley Medical Center</td>
+            <td>Permanent</td>
+                 
+        <td>Wichita, Kansas</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-surgical-services-14">Director of Surgical Services</a> </td>
+              <td>HackensackUMC Mountainside</td>
+            <td>Permanent</td>
+                 
+        <td>Montclair, New Jersey</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-nursing-0">Director of Nursing</a> </td>
+              <td>Ohana Pacific Management Company</td>
+            <td>Permanent</td>
+                 
+        <td>Kaneohe, Hawaii</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/administrator">Administrator</a> </td>
+              <td>Ohana Pacific Management Company</td>
+            <td>Permanent</td>
+                 
+        <td>Kaneohe, Hawaii</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-orthopedic-service-line-operations">Director Orthopedic Service Line Operations</a> </td>
+              <td>St. Joseph&#039;s Hospital</td>
+            <td>Permanent</td>
+                 
+        <td>Syracuse, New York</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-clinical-nutrition">Director of Clinical Nutrition</a> </td>
+              <td>The Children&#039;s Hospital of Alabama</td>
+            <td>Permanent</td>
+                 
+        <td>Birmingham, Alabama</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-pharmacy-1">Director of Pharmacy</a> </td>
+              <td>Baptist Health System</td>
+            <td>Permanent</td>
+                 
+        <td>Birmingham, Alabama</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/system-director-perioperative-services">System Director of Perioperative Services</a> </td>
+              <td>St. Elizabeth Healthcare-Edgewood</td>
+            <td>Permanent</td>
+                 
+        <td>Edgewood, Kentucky</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/chief-financial-officer-18">Chief Financial Officer</a> </td>
+              <td>Perry Memorial Hospital</td>
+            <td>Permanent</td>
+                 
+        <td>Princeton, Illinois</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/director-emergency-department-and-critical-care">Director Emergency Department and Critical Care</a> </td>
+              <td>Confidential</td>
+            <td>Permanent</td>
+                 
+        <td>New York, New York</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/assistant-vice-president-perioperative-services">Assistant Vice President of Perioperative Services</a> </td>
+              <td>Georgia Regents Health System</td>
+            <td>Permanent</td>
+                 
+        <td>Augusta, Georgia</td>
+          </tr>
+    	<tr>
+  		<td><a href="/candidates/job-opportunities/chief-financial-officer-19">Chief Financial Officer</a> </td>
+              <td>College Hospital</td>
+            <td>Permanent</td>
+                 
+        <td>Cerritos, California</td>
+          </tr>
+  </table>    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first"><a title="Go to previous page" href="/candidates/search?field_state_value=All&amp;field_job_category_tid=&amp;field_job_type_tid=&amp;field_code_value=&amp;body_value=&amp;field_term_tags_value=&amp;title=">‹ previous</a></li>
+<li class="pager-current">2 of 10</li>
+<li class="pager-next last"><a title="Go to next page" href="/candidates/search?field_state_value=All&amp;field_job_category_tid=&amp;field_job_type_tid=&amp;field_code_value=&amp;body_value=&amp;field_term_tags_value=&amp;page=2&amp;title=">next ›</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+</div>  </div>
+                </div>
+                
+                              
+           </div>
+           
+            <div class="pre-footer clearfix">
+            	<div class="inner">
+                 	  <div class="region region-post-content">
+    <div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+     <div class="pre-footer-left"><img src="/sites/all/themes/besmith/_assets/images/login-btn.png" /><a href="/user">Candidate Login</a></div><div class="pre-footer-right"><a href="">Connect with B. E. Smith</a><div class="social"><a href="http://www.facebook.com/besmithcareers" target="_blank"><img src="/sites/all/themes/besmith/_assets/images/facebook.png" /></a> <a href="https://twitter.com/#!/besmithinc" target="_blank"><img src="/sites/all/themes/besmith/_assets/images/twitter.png" /></a> <a href="http://www.linkedin.com/company/98281" target="_blank"><img src="/sites/all/themes/besmith/_assets/images/linkedin.png" /></a></div></div>   </div>
+</div>  </div>
+                </div>
+            </div>
+      </div>
+      
+	<div class="footer clearfix">
+    	<div class="inner">
+             <div class="region region-footer">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    <h3><a href="/about" title="Learn about B. E. Smith&#039;s Dedication to the Healthcare Execuive Search">About B. E. Smith</a></h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-324 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-464"><a href="/about/about-executive-team" title="Meet B. E. Smith&#039;s Executive Team">Executive Team</a></li>
+<li class="expanded menu-mlid-470"><a href="/about/regional-contacts" title="Connect With Your Regional Contact for All Your Healthcare Recruitment Needs">Regional Contacts</a><ul class="menu"><li class="first leaf menu-mlid-858"><a href="/about/regional-contacts/senior-vice-president-business-development-0" title="Mike Supple, Senior Vice President">Global Senior Vice President</a></li>
+<li class="leaf menu-mlid-859"><a href="/about/regional-contacts/vice-president-north-central-division" title="Matt Hoffman, Vice President">North Central Division</a></li>
+<li class="leaf menu-mlid-861"><a href="/about/regional-contacts/regional-vice-president-business-development-1" title="Bryan Christianson, Vice President">West Division</a></li>
+<li class="leaf menu-mlid-2258"><a href="/about/regional-contacts/vice-president-central-west-division" title="Harper Chaffee, Vice President">Central West Division</a></li>
+<li class="leaf menu-mlid-2619"><a href="/about/regional-contacts/vice-president-central-east-division" title="Megan Heim, Vice President">Central East Division</a></li>
+<li class="leaf menu-mlid-862"><a href="/about/regional-contacts/regional-vice-president-business-development-2" title="Brett Brende, Vice President">Southwest Division</a></li>
+<li class="leaf menu-mlid-865"><a href="/about/regional-contacts/regional-vice-president-business-development-5" title="Brian Krehbiel, Vice President">Southeast Division</a></li>
+<li class="leaf menu-mlid-866"><a href="/about/regional-contacts/regional-vice-president-business-development-6" title="Sandy Cugliotta, Vice President">Northeast Division</a></li>
+<li class="leaf menu-mlid-2335"><a href="/about/regional-contacts/vice-president-academic-and-childrens-division" title="Jolene Williams, Vice President">Academic &amp; Children&#039;s Division</a></li>
+<li class="last leaf menu-mlid-2646"><a href="/about/regional-contacts/vice-president-physician-services" title="Dr. Marilyn Palmer, Vice President">Physician Services</a></li>
+</ul></li>
+<li class="leaf menu-mlid-471"><a href="/about/partnerships" title="National and Regional Healthcare Partnerships">Partnerships</a></li>
+<li class="leaf menu-mlid-472"><a href="/about/diversity" title="B. E. Smith&#039;s Diversity Statement">Diversity</a></li>
+<li class="leaf menu-mlid-473"><a href="/about/awards" title="B. E. Smith&#039;s National and Regional Awards">Awards</a></li>
+<li class="last leaf menu-mlid-2566"><a href="/about/careers-b-e-smith" title="Join the team! Career opportunities at B. E. Smith.">B. E. Smith Careers</a></li>
+</ul></div>
+  </div>
+</div><div id="block-menu-block-2" class="block block-menu-block">
+
+    <h3><a href="/solutions" title="Learn More About Interim Leadership, Executive Search and Advisory Services">Solutions</a></h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-327 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-475"><a href="/solutions/interim-leadership" title="The Healthcare Industry&#039;s Premier Interim Leadership Solution">Interim Leadership</a><ul class="menu"><li class="first leaf has-children menu-mlid-565"><a href="/solutions/interim-leadership/interim-leadership-team" title="Meet Your Interim Leadership Team">Interim Leadership Team</a></li>
+<li class="last leaf menu-mlid-2351"><a href="/solutions/interim-leadership/testimonials" title="See what healthcare providers are saying about Interim Leadership">Testimonials</a></li>
+</ul></li>
+<li class="expanded menu-mlid-476"><a href="/solutions/executive-search" title="The Top Ranked Healthcare Executive Search Firm">Executive Search</a><ul class="menu"><li class="first leaf has-children menu-mlid-569"><a href="/solutions/executive-search/executive-search-team" title="Meet Your Executive Search Team">Executive Search Team</a></li>
+<li class="last leaf menu-mlid-2350"><a href="/solutions/executive-search/testimonials" title="See what healthcare providers are saying about Executive Search">Testimonials</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3186"><a href="/solutions/advisory-services" title="Your Trusted Advisers">Advisory Services</a><ul class="menu"><li class="first last leaf menu-mlid-3221"><a href="/solutions/advisory-services/testimonials" title="See what healthcare providers are saying about Advisory Services">Testimonials</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-2343"><a href="/solutions/specialty-areas" title="Experienced healthcare recruiters in select specialty areas">Specialty Areas</a><ul class="menu"><li class="first leaf has-children menu-mlid-566"><a href="/solutions/specialty-areas/senior-executive-search" title="The Foremost Senior-Level Healthcare and Recruitment Experience in the Industry">Senior Executive Search</a></li>
+<li class="leaf has-children menu-mlid-2344"><a href="/solutions/specialty-areas/childrens-hospitals" title="Learn about B. E. Smith&#039;s pediatric leadership team and recruitment services">Children&#039;s Hospitals</a></li>
+<li class="leaf has-children menu-mlid-2345"><a href="/solutions/specialty-areas/academic-medical-centers-higher-education" title="B. E. Smith&#039;s academic &amp; higher education service offerings">Academic &amp; Higher Education</a></li>
+<li class="leaf has-children menu-mlid-2346"><a href="/solutions/specialty-areas/healthcare-information-technology" title="Information on B. E. Smith&#039;s healthcare IT recruitment and services">Information Technology</a></li>
+<li class="last leaf has-children menu-mlid-3156"><a href="/solutions/specialty-areas/physician-executive-services" title="Information on physician executive recruitment and services">Physician Executive Services</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div><div id="block-menu-block-3--2" class="block block-menu-block">
+
+    <h3><a href="/candidates/search-listings" title="Career information and opportunities for healthcare executives">Candidates</a></h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-328 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-478"><a href="/candidates/search-listings" title="Find your next career opportunity">Search Listings</a></li>
+<li class="expanded menu-mlid-480"><a href="/candidates/recently-placed-archive" title="Your Opportunity for Interim Leadership, Executive Search and Management Consulting Services">Candidate Solutions</a><ul class="menu"><li class="first leaf has-children menu-mlid-537"><a href="/candidates/candidate-solutions/interim-leadershipconsulting-positions" title="Interim Leadership/Consulting Positions">Interim/Consulting Positions</a></li>
+<li class="last leaf menu-mlid-513"><a href="/candidates/candidate-solutions/permanent-positions" title="Get notified regarding permanent healthcare positions">Permanent Positions</a></li>
+</ul></li>
+<li class="leaf menu-mlid-479"><a href="/candidates/candidate-contacts" title="Contact a healthcare recruiter in your specialty">Candidate Contacts</a></li>
+<li class="last leaf menu-mlid-987"><a href="/user?current=candidates/search" title="Sign in or create an account">Sign in to B. E. Smith</a></li>
+</ul></div>
+  </div>
+</div><div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3><a href="/thought-leadership" title="Links to Career Management, Articles, Case Studies, Testimonials, White Papers, and Videos">Thought Leadership</a></h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-329 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-485"><a href="/thought-leadership/white-papers" title="B. E. Smith articles providing insight into healthcare trends and topics">White Papers</a></li>
+<li class="leaf menu-mlid-3211"><a href="/thought-leadership/executive-briefs">Executive Briefs</a></li>
+<li class="leaf menu-mlid-482"><a href="/thought-leadership/articles" title="Reports from leading healthcare publications on leadership and recruitment">Articles</a></li>
+<li class="leaf menu-mlid-483"><a href="/thought-leadership/case-studies" title="Learn how B. E. Smith has helped similar organizations">Case Studies</a></li>
+<li class="leaf menu-mlid-484"><a href="/thought-leadership/testimonials" title="Discover why healthcare providers value their partnership with B. E. Smith">Testimonials</a></li>
+<li class="leaf menu-mlid-481"><a href="/thought-leadership/career-management" title="Advice and information to help you advance your career">Career Management</a></li>
+<li class="leaf menu-mlid-1056"><a href="/thought-leadership/videos" title="Get expert advice straight from industry thought leaders">Videos</a></li>
+<li class="last leaf menu-mlid-1871"><a href="/thought-leadership/recent-surveys" title="Access national survey results from B. E. Smith and healthcare executives">Recent Surveys</a></li>
+</ul></div>
+  </div>
+</div><div id="block-menu-block-5" class="block block-menu-block">
+
+    <h3><a href="/news-events" title="A resource for valuable healthcare information">News &amp; Events</a></h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-330 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-488"><a href="/news-events/recent-news" title="Read the latest B. E. Smith healthcare leadership news">Recent News</a></li>
+<li class="leaf menu-mlid-489"><a href="/news-events/upcoming-events" title="View future healthcare conferences and meetings">Upcoming Events</a></li>
+<li class="last leaf menu-mlid-491"><a href="/news-events/archive/news-archive" title="Access past news stories and press releases">News Archive</a></li>
+</ul></div>
+  </div>
+</div><div id="block-block-27" class="block block-block">
+
+    
+  <div class="content">
+     <p><a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap">Site map</a></p>   </div>
+</div><div id="block-block-152" class="block block-block">
+
+    
+  <div class="content">
+    <!-- Google Code for All Pages -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1040643720;
+    var google_conversion_label = "irVBCODv5AMQiO2b8AM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1040643720/?value=0&amp;label=irVBCODv5AMQiO2b8AM&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>  </div>
+</div><div id="block-block-161" class="block block-block">
+
+    
+  <div class="content">
+    <script language="javascript">
+jQuery(document).ready(function(){
+  jQuery('.page-node-124 #edit-submit').click(function(e){
+       s=s_gi(s_account);
+       s.linkTrackVars = "events,prop10,eVar10";
+       s.linkTrackEvents = "event10";
+       s.prop10="SUBJECT OF CONTACT SUBMISSION";
+       s.eVar10="SUBJECT OF CONTACT SUBMISSION";
+       s.channel = "Contact Us";
+       s.events="event10";
+       s.tl(this, 'o', 'SUBJECT OF CONTACT SUBMISSION');
+  });
+
+  jQuery('.page-node-2115 #edit-submit--2').click(function(){
+       s=s_gi(s_account);
+       s.linkTrackVars = "events,prop12,eVar12";
+       s.linkTrackEvents = "event12";
+       s.prop12="Submit";
+       s.eVar12="Submit";
+       s.events="event12";
+       s.channel="Executive Search";
+       s.tl(this, 'o', s.eVar12);    
+  });
+
+ jQuery('.page-node-2084 #edit-submit--2').click(function(){
+       s=s_gi(s_account);
+       s.linkTrackVars = "events,prop13,eVar13";
+       s.linkTrackEvents = "event13";
+       s.prop13="Submit";
+       s.eVar13="Submit"; 
+       s.events="event13";
+       s.channel="Meet Interim Leader";
+       s.tl(this, 'o', s.prop13);
+  });
+
+jQuery('.page-node-2118 #edit-submit--2').click(function(){
+       s=s_gi(s_account);
+       s.linkTrackVars = "events,prop11,eVar11";
+       s.linkTrackEvents = "event11";
+       s.prop11="SUBJECT OF REQUEST INFO SUBMISSION";
+       s.eVar11="SUBJECT OF REQUEST INFO SUBMISSION";
+       s.events="event11";
+       s.channel="Request Information";
+       s.tl(true, 'o', s.prop11);      
+});
+
+jQuery('.page-node-2084 #block-block-154 a').click(function(){
+      s=s_gi(s_account);
+      s.linkTrackVars = "events,eVar16";
+      s.linkTrackEvents = "event16";
+      s.eVar16="Click";
+      s.events="event16";
+      s.channel="Click Here - Proven Interim Leadership";
+      s.tl(true, 'o', s.eVar16);
+});
+
+jQuery('.page-node-2118 #block-block-154 a').click(function(){
+      s=s_gi(s_account);
+      s.linkTrackVars = "events,eVar15";
+      s.linkTrackEvents = "event15";
+      s.eVar15="Click";
+      s.events="event15";
+      s.channel="Click Here - Leadership Services";
+      s.tl(true, 'o', s.eVar15);
+});
+
+jQuery('.page-node-2115 #block-block-154 a').click(function(){
+      s=s_gi(s_account);
+      s.linkTrackVars = "events,eVar14";
+      s.linkTrackEvents = "event14";
+      s.eVar14="Click";
+      s.events="event14";
+      s.channel="Click Here - Executive Job Seekers";
+      s.tl(true, 'o', s.eVar14);
+
+});
+});//end document ready
+</script>  </div>
+</div><div id="block-block-31" class="block block-block">
+
+    
+  <div class="content">
+    <!-- SiteCatalyst code version: H.24.2.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/sites/all/themes/besmith/_assets/js/omniture.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="";
+s.server="";
+s.channel="";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+
+/* Plugin Config */
+s.usePlugins=true
+function s_doPlugins(s) {
+      /* Add calls to plugins here */
+      /* External Campaign Tracking */
+      s.campaign=s.getQueryParam('s_cid');
+}
+s.doPlugins=s_doPlugins
+
+s.getQueryParam=new Function("p","d","u","" 
++"var s=this,v='',i,t;d=d?d:'';u=u?u:(s.pageURL?s.pageURL:s.wd.locati" 
++"on);if(u=='f')u=s.gtfs().location;while(p){i=p.indexOf(',');i=i<0?p" 
++".length:i;t=s.p_gpv(p.substring(0,i),u+'');if(t){t=t.indexOf('#')>-" 
++"1?t.substring(0,t.indexOf('#')):t;}if(t)v+=v?d+t:t;p=p.substring(i=" 
++"=p.length?i:i+1)}return v"); 
+s.p_gpv=new Function("k","u","" 
++"var s=this,v='',i=u.indexOf('?'),q;if(k&&i>-1){q=u.substring(i+1);v" 
++"=s.pt(q,'&','p_gvf',k)}return v"); 
+s.p_gvf=new Function("t","k","" 
++"if(t){var s=this,i=t.indexOf('='),p=i<0?t:t.substring(0,i),v=i<0?'T" 
++"rue':t.substring(i+1);if(p.toLowerCase()==k.toLowerCase())return s." 
++"epa(v)}return ''");
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="https://besmith.112.2o7.net/b/ss/besv2newsite/1/H.24.2--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.2. -->  </div>
+</div>  </div>
+        </div>	
+    </div>       
+    
+<script type="text/javascript" src="https://use.typekit.com/cnb4pad.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script></body>
+</html>

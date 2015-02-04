@@ -1,0 +1,3 @@
+.job-listing:first-child {
+    color: red;
+}
