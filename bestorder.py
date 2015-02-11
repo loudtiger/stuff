@@ -26,6 +26,7 @@ def calculatePosition(sortedReferenceList, inputWordList, accumulator):
 		while inputIndex < len(inputWordList):
 			if inputWordList[inputIndex] != sortedReferenceList[sortedIndex]:
 				if comparedLetters.get(sortedReferenceList[sortedIndex]) != inputIndex:
+					#Get the number of permutations WITHOUT including the letter.
 					accumulator = accumulator + getNumUniquePermutations(sortedReferenceList[0:sortedIndex] + sortedReferenceList[sortedIndex+1:])
 					comparedLetters[sortedReferenceList[sortedIndex]] = inputIndex
 
