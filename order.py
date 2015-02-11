@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 import itertools
 import sys
 

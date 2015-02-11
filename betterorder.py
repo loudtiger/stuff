@@ -1,7 +1,23 @@
+#!/usr/bin/python2
+
 import sys
+
+from collections import Counter
 
 def getNumUniqueLetters(s):
 	return len(set(s))
+
+def getNumUniquePermutations(n, seen):
+	if seen == n:
+		print "Removing duplicate."
+		n = n.replace(seen, "")
+	remainderList = list(n)
+	letterOccurences = Counter(n)
+	denominator = 1
+	for letter in letterOccurences:
+		denominator = denominator * factorial(letterOccurences.get(letter))
+	
+	return factorial(len(remainderList))/denominator
 
 def factorial(n):
 	if n == 0:
@@ -11,7 +27,7 @@ def factorial(n):
 
 def numLettersPriorTo(c, s):
 	numLetters = 0
-	splitRemainder = list(s)
+	splitRemainder = list(set(s))
 	for char in splitRemainder:
 		if c > char:
 			numLetters = numLetters + 1
@@ -19,26 +35,24 @@ def numLettersPriorTo(c, s):
 	return numLetters
 
 def calculatePosition(s, seen, accumulator):
-	if len(s) == 1:
+	if len(s) == 0:
 		return accumulator + 1
 	else:
 		splitWord = list(s)
 		firstChar = splitWord[0]
-		seen = seen + firstChar
 		remainder = ''.join(splitWord[1:])
-		numRemainingUniqueLetters = getNumUniqueLetters(remainder)
-		print "NumUniqueLetters:" + str(numRemainingUniqueLetters) + " from " + remainder
-		numPermutations = factorial(numRemainingUniqueLetters)
+		seen = seen + firstChar
+		numPermutations = getNumUniquePermutations(remainder, seen)
 		print "NumPermutations:" + str(numPermutations)
 		numIterations = numLettersPriorTo(firstChar, remainder)
 		print "NumIterations:" + str(numIterations) + ", " + str(firstChar) + ":" + str(remainder)
 		total = numIterations * numPermutations
 		print "Total to add:" + str(total)
-		print "Remainder:" + remainder + ", Accumulator: " + str(accumulator)
-		print "Seen chars:" + seen
-		print "----"
+		#print "Remainder:" + remainder + ", Accumulator: " + str(accumulator)
+		#print "----"
 		return calculatePosition(remainder, seen, accumulator + total)
-		
+
+
 inputString = sys.argv[1]
 splitWord = list(inputString)
 sortedInput = sorted(splitWord)
