@@ -8,7 +8,7 @@ factorial, fibonacci, etc.
 red/black tree
 quick sort
 merge sort
-binary search
+binary search 
 binary sort
 
 General

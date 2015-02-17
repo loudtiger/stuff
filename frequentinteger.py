@@ -11,10 +11,13 @@ mostSeenInteger = -1
 for i in range(0, len(sortedInput)-1):
 	if sortedInput[i] == sortedInput[i+1]:
 		numTotal+=1
+	else:
+		numTotal = 0
 
-	elif numTotal > maxOccurences:
+	if numTotal > maxOccurences:
 		maxOccurences = numTotal
 		mostSeenInteger = sortedInput[i]
-		numTotal = 0
+
+	print str(numTotal)
 
 print mostSeenInteger

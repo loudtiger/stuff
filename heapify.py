@@ -1,23 +1,25 @@
 from math import floor
 
 def heapify(array, index, size):
+	print "Index:" + str(index) + ", size:" + str(size)
 	left = index*2 + 1
 	right = index*2 + 2
-	
+
 	if left < size and array[index] < array[left]:
 		largestIdx = left
 	else:
 		largestIdx = index
-	
+
 	if right < size and array[largestIdx] < array[right]:
 		largestIdx = right
-	
+
+	print "LargestIdx:" + str(largestIdx) + ", size: " + str(size) + ", left: " + str(left) + ", right: " + str(right)
 	if largestIdx != index: #if the index of the largest element is not the index, then we gotta swap.
 		print "Swapping " + str(array[largestIdx]) + " and " + str(array[index])
 		temp = array[index]
 		array[index] = array[largestIdx]
 		array[largestIdx] = temp
-		
+
 		heapify(array, largestIdx, size)
 
 def build_heap(array, size):
@@ -39,7 +41,7 @@ def heapsort(array):
 		print "Rebuilt heap:" + str(array)
 		count-=1
 
-array = [1, 6, 3, 8, 2, 5, 4]
+array = [7,9,8]
 #print array
 #build_heap(array, len(array))
 #print array
