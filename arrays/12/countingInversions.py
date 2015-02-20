@@ -19,19 +19,15 @@ def merge(array, resultingMerge, left, mid, right):
 	j = mid
 	k = left
 	inverseCount = 0
-	print "i:" + str(i)
-	print "j:" + str(j)
-	print "Entering while:" + str(array)
 	while i <= mid-1 and j <= right:
-		print "i and j:" + str(array[i]) + ", " + str(array[j])
 		if array[i] <= array[j]:
 			resultingMerge[k] = array[i]
-			print "resulting merge:" + str(resultingMerge)
+			#print "resulting merge:" + str(resultingMerge)
 			k+=1
 			i+=1
 		else:
 			resultingMerge[k] = array[j]
-			print "resulting merge:" + str(resultingMerge)
+			#print "resulting merge:" + str(resultingMerge)
 			k+=1
 			j+=1
 			inverseCount = inverseCount + (mid - i)
@@ -49,7 +45,7 @@ def merge(array, resultingMerge, left, mid, right):
 	for i in range(left,right+1):
 		array[i] = resultingMerge[i]
 	
-	print str(array)
+	#print str(array)
 	return inverseCount
 
 print countInverse([1,2,5,4,3])
